@@ -1,0 +1,193 @@
+.header .logo {
+  margin-left: 200px;
+  margin-top: 20px;
+}
+.header ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  list-style: none;
+  margin-top: 35px;
+  gap: 40px;
+}
+.header ul li {
+  color: #282B22;
+  font-size: 16px;
+  font-weight: 500;
+}
+.header .header_box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 145px;
+}
+.header .logo1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: -100px;
+  margin-top: 35px;
+}
+.header .logo2 {
+  margin-left: -130px;
+  margin-top: 35px;
+}
+.header .number {
+  margin-left: -100px;
+}
+.header .logo12 {
+  margin-top: 35px;
+}
+.header .menyu {
+  margin-left: 50px;
+  margin-top: -8px;
+}
+.header .num {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.header .header_box1 {
+  width: 100%;
+  height: 687px;
+  background-image: url(../../img/tv-cabinet-modern-living-room-with-armchair-plant-dark-marble-wall-3d-rendering\ 1.png);
+  margin-top: 20px;
+  display: block;
+}
+.header .header_text22 {
+  width: 200px;
+  color: #FFF;
+  text-align: center;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 120%;
+  text-transform: uppercase;
+  margin-left: 460px;
+  padding: 20px;
+}
+.header .header_text2 {
+  width: 537px;
+  color: #FFF;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 150%;
+  margin-left: 531px;
+  margin-top: 20px;
+  opacity: 0.8;
+}
+.header .header_button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 260px;
+  padding: 22px 56px;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  gap: 10px;
+  background: #AE7B3C;
+  -webkit-box-shadow: 0px 20px 25px 0px rgba(0, 0, 0, 0.05);
+          box-shadow: 0px 20px 25px 0px rgba(0, 0, 0, 0.05);
+  width: 280px;
+  color: #FFF;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 100%;
+  margin-left: 670px;
+  margin-top: 50px;
+  cursor: pointer;
+}
+.header .header_text3 {
+  color: #282B22;
+  text-align: center;
+  font-size: 46px;
+  font-weight: 600;
+  margin-top: 140px;
+}
+.header .header_box2 {
+  width: 384px;
+  height: 458px;
+  border: 2px solid rgb(255, 255, 255);
+}
+.header .header_text4 {
+  color: #282B22;
+  font-size: 24px;
+  font-weight: 600;
+  opacity: 0.5;
+  margin-left: 30px;
+}
+.header .header_text5 {
+  color: #3D4A39;
+  font-size: 24px;
+  font-weight: 600;
+  margin-left: 30px;
+  margin-top: 60px;
+}
+.header .header_img {
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.header .header_yon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 50px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 80px;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+.header .header_box3 {
+  width: 100%;
+  height: 688px;
+  background: #3D4A39;
+  margin-top: 140px;
+}
+.header .header_text6 {
+  color: #FFF;
+  font-size: 46px;
+  font-weight: 600;
+  margin-left: 540px;
+  padding: 40px;
+}
+.header .text-1 {
+  color: #FFF;
+  font-size: 24px;
+  font-weight: 500;
+  opacity: 0.5;
+}
+.header .skreen {
+  width: 66px;
+  height: 66px;
+  margin-left: 8%;
+}
+.header .box-2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 357px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 70px;
+}
+
+@media screen and (max-width: 391px) {
+  ul li {
+    font-size: 20px;
+    display: none;
+  }
+  .foto {
+    margin-left: -45%;
+  }
+  .num {
+    width: 700px;
+    margin-left: -38%;
+  }
+  .mena {
+    margin-left: -77%;
+  }
+}
